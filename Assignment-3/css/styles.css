@@ -1,0 +1,53 @@
+*{
+	margin: -5px;
+	padding: 5px 0px 0px 0px;
+
+}
+.navbar{
+border:rgb(91, 101, 243);
+background-color: rgb(91, 101, 243);
+color: #e732b1;
+}
+body{
+	background-color: #fa9160;
+	color: rgb(92, 75, 243);
+  font-size: 2em;
+  text-align: justify;
+  font-family: 'Times New Roman', Times, serif;
+}
+.glyphicon{
+	color:#7ff75b; 
+}
+
+.center{
+	width: 90%;
+	background-color: rgb(241, 78, 37);
+
+}
+.container
+{
+	background-color: rgb(84, 230, 230);
+}
+.text-center{
+	font-size: 3em;
+  color: aqua;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  padding-bottom: 50px;
+}
+
+h2{
+	text-align: center;
+  font-size: 3.5em;
+  padding-bottom: 20px;
+}
+#myNavbar ul li a {
+	color: #3fee30;
+}
+.navbar-brand{
+font-size: 2em;	
+color: rgb(231, 59, 194);
+}
+.navbar-inverse .navbar-brand {
+  color: #e91313;
+}
